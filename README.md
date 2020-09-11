@@ -8,3 +8,7 @@ Tips for NodeJs Developers
     2 - Navigate to the file folder's
     
     3 - Type: node fileName.js
+
+- To NodeJs versions < 13.9.0
+ 
+    - Use: "node --experimental-modules events.js" to run the eventsFile example
